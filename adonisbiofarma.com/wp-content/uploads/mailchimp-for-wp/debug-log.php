@@ -1,0 +1,26 @@
+<?php exit; ?>
+[2021-09-18 17:22:08] WARNING: Custom > No Mailchimp lists were selected
+[2021-09-18 17:22:24] WARNING: Custom > No Mailchimp lists were selected
+[2021-09-27 07:32:18] WARNING: Custom > No Mailchimp lists were selected
+[2021-09-27 10:17:57] WARNING: Custom > No Mailchimp lists were selected
+[2021-09-27 10:19:39] WARNING: Custom > No Mailchimp lists were selected
+[2021-09-27 10:26:17] WARNING: Custom > No Mailchimp lists were selected
+[2021-09-27 10:28:17] WARNING: Custom > No Mailchimp lists were selected
+[2021-09-28 14:07:03] WARNING: Custom > No Mailchimp lists were selected
+[2021-09-28 14:31:13] WARNING: Custom > No Mailchimp lists were selected
+[2021-09-28 14:44:00] WARNING: Custom > No Mailchimp lists were selected
+[2021-09-28 14:44:37] WARNING: Custom > No Mailchimp lists were selected
+[2021-09-28 14:46:13] WARNING: Custom > No Mailchimp lists were selected
+[2021-09-28 14:49:02] WARNING: Custom > No Mailchimp lists were selected
+[2021-09-28 14:56:38] WARNING: Custom > No Mailchimp lists were selected
+[2021-09-28 15:07:36] WARNING: Custom > No Mailchimp lists were selected
+[2021-09-28 15:16:08] WARNING: Custom > No Mailchimp lists were selected
+[2021-09-28 15:18:36] WARNING: Custom > No Mailchimp lists were selected
+[2021-09-29 02:41:49] WARNING: Custom > No Mailchimp lists were selected
+[2021-09-29 02:44:02] WARNING: Custom > No Mailchimp lists were selected
+[2021-09-29 02:44:35] WARNING: Custom > No Mailchimp lists were selected
+[2021-09-29 02:47:59] WARNING: Custom > No Mailchimp lists were selected
+[2021-09-29 02:48:50] WARNING: Custom > No Mailchimp lists were selected
+[2021-10-05 06:28:19] WARNING: Custom > No Mailchimp lists were selected
+[2021-10-05 08:18:28] WARNING: Custom > No Mailchimp lists were selected
+[2021-10-05 08:18:39] WARNING: Custom > No Mailchimp lists were selected

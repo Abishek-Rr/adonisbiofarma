@@ -1,0 +1,32 @@
+[03-Dec-2022 18:28:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function create_function() in /home1/myurls68/adonisbiofarma.com/wp-content/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home1/myurls68/adonisbiofarma.com/wp-content/index.php on line 1
+[13-Dec-2022 13:56:10 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function create_function() in /home1/myurls68/adonisbiofarma.com/wp-content/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home1/myurls68/adonisbiofarma.com/wp-content/index.php on line 1
+[20-Dec-2022 12:15:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function create_function() in /home1/myurls68/adonisbiofarma.com/wp-content/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home1/myurls68/adonisbiofarma.com/wp-content/index.php on line 1
+[27-Dec-2022 13:35:15 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function create_function() in /home1/myurls68/adonisbiofarma.com/wp-content/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home1/myurls68/adonisbiofarma.com/wp-content/index.php on line 1
+[27-Dec-2022 13:35:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function create_function() in /home1/myurls68/adonisbiofarma.com/wp-content/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home1/myurls68/adonisbiofarma.com/wp-content/index.php on line 1
+[28-Dec-2022 03:09:14 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function create_function() in /home1/myurls68/adonisbiofarma.com/wp-content/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home1/myurls68/adonisbiofarma.com/wp-content/index.php on line 1
+[31-Dec-2022 20:55:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function create_function() in /home1/myurls68/adonisbiofarma.com/wp-content/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home1/myurls68/adonisbiofarma.com/wp-content/index.php on line 1
+[17-Jan-2023 12:30:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function create_function() in /home1/myurls68/adonisbiofarma.com/wp-content/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home1/myurls68/adonisbiofarma.com/wp-content/index.php on line 1
